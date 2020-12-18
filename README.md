@@ -9,5 +9,7 @@ Usage
 ---
 1. Clone repo onto local drive
 
-    source path
-    autoGit 'commit message'
+``` bash
+source path
+autoGit 'commit message'
+```
