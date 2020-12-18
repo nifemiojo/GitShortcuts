@@ -7,7 +7,7 @@ Edit to suit your need.
 
 Usage
 ---
-Clone repo onto local drive
+1. Clone repo onto local drive
 
-source path
-autoGit 'first commit'
+    source <path>
+    autoGit <'first commit'>
