@@ -9,5 +9,5 @@ Usage
 ---
 1. Clone repo onto local drive
 
-    source <path>
-    autoGit <'first commit'>
+    source path
+    autoGit 'commit message'
